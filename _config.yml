@@ -1,6 +1,6 @@
 name: ThunderHeart Ceremonies
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.25831
 typography_spectrum: 0.9813567968085408
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#665550'
     - '#b2687d'
   brandStrength: 0.1875
-  lightness: 0.5
+  lightness: 0.8125
   saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
