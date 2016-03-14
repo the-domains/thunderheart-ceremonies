@@ -1,28 +1,40 @@
-name: ThunderHeart Ceremonies
 favicon: null
-layout_spectrum: 0.09323956747539341
-typography_spectrum: 0.9813567968085408
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: ThunderHeart Ceremonies
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.7036292229313403
+  brandStrength: 0.8339303289540112
+  rhythmicContrast: 0.6723281641025096
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.8339303289540112
   lightness: 0.9077961929142475
-  saturation: 0.7036292229313403
-  rhythmicContrast: 0.6723281641025096
-purpose: []
+typography_spectrum: 0.9813567968085408
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5576441
+analytics:
+  twitter: null
+  google: null
+  facebook: null
