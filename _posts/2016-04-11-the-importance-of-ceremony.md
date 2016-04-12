@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-11T18:27:20.413Z'
-dateModified: '2016-04-11T18:23:05.832Z'
+datePublished: '2016-04-12T14:33:53.866Z'
+dateModified: '2016-04-12T01:48:46.909Z'
 title: The Importance of Ceremony
 author: []
+sourcePath: _posts/2016-04-11-the-importance-of-ceremony.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-11-the-importance-of-ceremony.md
-published: true
 url: the-importance-of-ceremony/index.html
-_type: Article
+_type: WebPage
 
 ---
 # The Importance of Ceremony
